@@ -17,7 +17,8 @@ import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor
-public class CreditService {
+public class
+CreditService {
 
     private final PlayerGameLevelRepository playerGameLevelRepository;
 
